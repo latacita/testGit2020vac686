@@ -43,6 +43,15 @@
 	add + commit "Paso 15"
 
 (16)	add + Commit "Paso16"
+
+(17)	tag FusionTerminada
+
+(18)   pull master		Hay un conflicto entre lo que hay en la rama remota y lo que hay en la rama local
+	add + commit "Paso18"
+
+(19) 	add 
+	+ commit "Paso 19"
+	push
 				
 
 	

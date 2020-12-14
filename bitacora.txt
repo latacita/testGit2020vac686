@@ -39,6 +39,10 @@
 (14)	Checkout master
 	Merge  Antecedentes	Se puede realizar por fast-forward debido a que la rama Antecendetes no modifica ningun fichero de los que hay en master. 
 
-(15)		
+(15)	Merge DatosPersonales	He tenido conflictos al hacer el merge y los he resuelto
+	add + commit "Paso 15"
+
+(16)	add + Commit "Paso16"
+				
 
 	

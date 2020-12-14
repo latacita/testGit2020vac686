@@ -7,9 +7,12 @@
  Paso   Acción                       Notas
 ====== ============================ ================================
 (01) 	Clone
+
 (02)	Branch DatosPersonales		
-	Checkout 			
+	Checkout 	
+		
 (03)					Editar el fichero
+
 (05)	add + 
 	Commit "Paso 04"		He escrito Paso 4 en el commit, pero me estoy refieriendo al paso5
 	
@@ -17,8 +20,25 @@
 	
 (07)	Branch Antecedentes
 	Checkout Antecedentes
+
 (08)					Creo el fichero antecedentes.txt
 
 (09)  	Add +
 	Commit "Paso 09"
+
+(10)	Checkout master
+
+(11)	checkout DatosPersonales
+	push 
+
+(12)				 Se debe realizar la fusión recursiva ya que ambas comparten el archivo PlanVacunación, el cual es distinto en ambas ramas
+
+(13)				add +
+				Commit "Paso 13"
+
+(14)	Checkout master
+	Merge  Antecedentes	Se puede realizar por fast-forward debido a que la rama Antecendetes no modifica ningun fichero de los que hay en master. 
+
+(15)		
+
 	

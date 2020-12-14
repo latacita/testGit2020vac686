@@ -1,8 +1,24 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Argüeso Cano, Victor%%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01) 	Clone
+(02)	Branch DatosPersonales		
+	Checkout 			
+(03)					Editar el fichero
+(05)	add + 
+	Commit "Paso 04"		He escrito Paso 4 en el commit, pero me estoy refieriendo al paso5
+	
+(06)	Checkout master
+	
+(07)	Branch Antecedentes
+	Checkout Antecedentes
+(08)					Creo el fichero antecedentes.txt
+
+(09)  	Add +
+	Commit "Paso 09"
+	
